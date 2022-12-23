@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\bin\Debug\netcoreapp3.1\merge_sort.exe
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\bin\Debug\netcoreapp3.1\merge_sort.deps.json
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\bin\Debug\netcoreapp3.1\merge_sort.runtimeconfig.json
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\bin\Debug\netcoreapp3.1\merge_sort.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\bin\Debug\netcoreapp3.1\merge_sort.dll
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\bin\Debug\netcoreapp3.1\merge_sort.pdb
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\obj\Debug\netcoreapp3.1\merge_sort.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\obj\Debug\netcoreapp3.1\merge_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\obj\Debug\netcoreapp3.1\merge_sort.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\obj\Debug\netcoreapp3.1\merge_sort.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\obj\Debug\netcoreapp3.1\merge_sort.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\obj\Debug\netcoreapp3.1\merge_sort.dll
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\obj\Debug\netcoreapp3.1\merge_sort.pdb
+C:\Users\DELL\OneDrive\سطح المكتب\algo\merge_sort\merge_sort\obj\Debug\netcoreapp3.1\merge_sort.genruntimeconfig.cache
